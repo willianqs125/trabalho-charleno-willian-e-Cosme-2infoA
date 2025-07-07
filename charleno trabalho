@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://kit.fontawesome.com/a3f1cdae77.js" crossorigin="anonymous">
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+  </script>
+  
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jadoo Travel</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">Jadoo</div>
+    <nav class="nav-links">
+      <a href="#">Destinations</a>
+      <a href="#">Hotels</a>
+      <a href="#">Flights</a>
+      <a href="#">Bookings</a>
+      <a href="#">Login</a>
+      <button class="signup-btn">Sign Up</button>
+    </nav>
+  </header>
+
+  <section class="less">
+    <div class="less-text">
+      <h4>Best Destinations Around The World</h4>
+      <h2>Travel, <span>enjoy</span><br />and live a new and full life</h2>
+      <p>Built Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.</p>
+      <div class="less-buttons">
+        <button class="purple-btn">Find out more</button>
+        <style>
+  .play-btn {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+
+  .play-btn i {
+    font-size: 23px;
+    margin-right: 15px;
+    height:28px;
+  }
+</style>
+        <button class="play-btn"><i class="fa-solid fa-play"></i></i>Play Demo</button>
+      </div>
+    </div>
+    <div class="less-img">
+      <img src="https://img.freepik.com/fotos-gratis/mulher-sorridente-posando-na-bagagem_23-2148521314.jpg?semt=ais_hybrid&w=740"alt="#" />
+    </div>
+  </section>
+
+  <section class="services">
+    <h3>We Offer Best Services</h3>
+    <div class="service-cards">
+      
+      <div class="card"><i class="fa-solid fa-satellite-dish"></i>
+        <br><h5>Calculated Weather</h5>
+        
+        <br>Built Wicket<br> longer<br>  
+admire do<br> barton 
+vanity itself <br>do in it.</div>
+      
+      <div class="card active"><i class="fa-solid fa-plane"></i><h5>Best Flights</h5>
+        
+        Engrossed<br> listening.<br> 
+Park gate<br> sell they 
+west<br> hard for the.</div>
+      
+      <div class="card"><i class="fa-solid fa-microphone-lines"></i><br><h5>Local Events</h5>
+        
+        Barton vanity<br> itself do 
+in it.<br> Preferd to men<br> i.step-content-wrapper {
+  display: flex;
+}
+
+.text-content {
+  width: 50%;
+}
+
+.card-two {
+  width: 50%;
+  background-color: #f0f0f0;
+  padding: 20px;
+}t 
+engrossed<br> listening.</div>
+      
+      <div class="card"><i class="fa-solid fa-gear"></i><br><h5>Customization</h5>We deliver<br> outsourced<br>
+aviation<br> services for<br>
+military<br> customers</div>
+    </div>
+  </section>
+
+  <section class="destinations">
+    <h3>Top Destinations</h3>
+    <div class="destination-cards">
+      <div class="destination"><img src="https://www.italia.it/content/dam/tdh/en/interests/lazio/roma/roma-in-48-ore/media/20220127150143-colosseo-roma-lazio-shutterstock-756032350.jpg" alt=""><h5>Rome, Italy $5.42k</h5></h5><h6> <i class="fa-solid fa-paper-plane"></i>10 Days trip  </h6></div>
+      
+      <div class="destination"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPJFiEhCX8toa6VIzgHj6kKLKOxWgftOz1Q&s" alt=""><h5>Londor,Uk $4.2k</h5><h6> <i class="fa-solid fa-paper-plane"></i>12 Days Trip </h6></div>
+      <div class="destination"><img src="https://fromabroadwithloveag.com/wp-content/uploads/2021/02/IMG_0426-1440x1080.jpg" alt=""><h5>Full Europe $15k</h5><h6> <i class="fa-solid fa-paper-plane"></i>25 Days Trip</h6>
+    </div>
+  </section>
+
+  <section class="steps"><div>
+    <div><h6 class="step-text">Ease and Faster</h6></div>
+    
+    <h3 class="step-text-one">Book Your Next Trip In 3 Easy Steps</h3>
+    <ul class="step-ol">
+      <div class="step-f1">
+        <h3><i class="fa-solid fa-cube"></i>Choose Destination</h3><p>Lorem ipsum dolor sit amet,consectetur adipiscing elit.Urna,tortor tempus.</p>
+      </div>
+      <div class="step-f2">
+        <h3><i class="fa-solid fa-panorama"></i>Make Payment</h3><p>
+          Lorem ipsum dolor sit amet,consectetur adipiscing elit.Urna,tortor tempus.
+        </p>
+      </div>
+      <div class="step-f3">
+        <h3><i class="fa-solid fa-car"></i>Reach Airport</h3><p>
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit.Urna,tortor tempus.</div>
+      <div class="step-f3">
+  <h3><i class="fa-solid fa-car"></i>Reach Airport</h3>
+  <div class="step-content-wrapper">
+    <div class="text-content">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus.
+     <div class="card-two"></div>
+
+        
+        </p>
+      </div>
+    </ul>
+  </section>
+
+  
+
+  <footer class="footer">
+    <p>Subscribe to get information, latest news and other interesting offers about Jadoo</p>
+    <form class="subscribe">
+      <input type="email" placeholder="Your email" />
+      <button type="submit">Subscribe</button>
+    </form>
+  </footer>
+</body>
+</html>
+</body>
+</html>
+
+
